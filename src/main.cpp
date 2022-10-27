@@ -20,9 +20,14 @@ int main()
   vexcodeInit();
 
 
+
   // انا طلال القوي
 
   Brain.Screen.print("talalowaid");
+// RYAAAAAAAAAAAAN
+
+
+  Brain.Screen.print("Ryan");
 // RYAAAAAAAAAAAAN
 
   
