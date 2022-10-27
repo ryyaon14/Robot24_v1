@@ -30,9 +30,12 @@ int main()
           Brain.Screen.print("talalowaid");
             Brain.Screen.print("talalowaid");
               Brain.Screen.print("talalowaid");
-                Brain.Screen.print("talalowaid");
+                Brain.Screen.print("rayaaan");
                 
 // RYAAAAAAAAAAAAN
+    Brain.Screen.print("talalowaid");
+                Brain.Screen.print("rayaaan");
+//omar
 
   
   
