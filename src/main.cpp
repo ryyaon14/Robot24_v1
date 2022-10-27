@@ -20,15 +20,20 @@ int main()
   vexcodeInit();
 
 
-
-  // انا طلال القوي
-
   Brain.Screen.print("talalowaid");
+  // انا طلال القوي
+  Brain.Screen.print("talalowaid");
+  Brain.Screen.print("talalowaid");
+    Brain.Screen.print("talalowaid");
+      Brain.Screen.print("talalowaid");
+        Brain.Screen.print("talalowaid");
+          Brain.Screen.print("talalowaid");
+            Brain.Screen.print("talalowaid");
+              Brain.Screen.print("talalowaid");
+                Brain.Screen.print("talalowaid");
+                
 // RYAAAAAAAAAAAAN
 
-
-  Brain.Screen.print("Ryan");
-// RYAAAAAAAAAAAAN
-
+  
   
 }
