@@ -18,7 +18,17 @@ int main()
 {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
+
+
+
+  // انا طلال القوي
+
+  Brain.Screen.print("talalowaid");
+// RYAAAAAAAAAAAAN
+
+
   Brain.Screen.print("Ryan");
 // RYAAAAAAAAAAAAN
+
   
 }
